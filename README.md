@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @harshmasiwal
-- 👀 I’m interested in coding, gaming, and gyming....
-- 🌱 I’m currently learning Java, Native Dev., and new emerging technology...
-- 💞️ I’m looking to collaborate on Git hub campus expert ...
-- 📫 How to reach me @Linkedln--https://www.linkedin.com/in/harsh-vardhan-masiwal-359788188 
-@ig--harsh_masiwal 
-@twitter--harsh2001882562...
+👋 Hi, I’m Harsh Masiwal.
+
+👀 I'm extremely passionate about Data Engineering and Big Data.
+
+🌱 I've masterful expertise in SQL, Python, and Apache Spark. My skills extend to designing and optimizing data pipelines, data cleaning, and data orchestration tools, and I'm well-versed in cloud platforms like Azure.
+
+🚀I am constantly seeking opportunities to apply my vast knowledge to real-world projects. 
+
+💡I am incredibly excited to contribute to projects that advance the field of data engineering.
+
+📫 Let’s connect! 
+You can reach me on LinkedIn 
+or via email-: harshmasiwal7@gmail.com.
 
 <!---
 harshmasiwal/harshmasiwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
