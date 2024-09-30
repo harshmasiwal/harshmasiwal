@@ -2,7 +2,7 @@
 
 👀 I'm extremely passionate about Data Engineering and Big Data.
 
-🌱 I've masterful expertise in SQL, Python, and Apache Spark. My skills extend to designing and optimizing data pipelines, data cleaning, and data orchestration tools, and I'm well-versed in cloud platforms like Azure.
+🌱 I've masterful expertise in SQL, Python, and PySpark. My skills extend to designing and optimizing data pipelines, data cleaning, and data orchestration tools, and I'm well-versed in cloud platforms like Azure.
 
 🚀Constantly seek opportunities to apply my vast knowledge to real-world projects. 
 
