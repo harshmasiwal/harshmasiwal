@@ -10,7 +10,7 @@
 
 📫 Let’s connect! 
 You can reach me on LinkedIn 
-or via email-: harshmasiwal01@gmail.com
+or via email-: harshmasiwal7gmail.com
 
 <!---
 harshmasiwal/harshmasiwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
